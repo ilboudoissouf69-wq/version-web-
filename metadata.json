@@ -1,0 +1,7 @@
+{
+  "name": "Gestion Couture - Atelier Ilboudo",
+  "description": "Application complète de gestion d'atelier de couture : clients, commandes multi-pièces, mesures sur-mesure, paiements et reçus, commissions couturiers, retouches, dépenses et trésorerie.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
